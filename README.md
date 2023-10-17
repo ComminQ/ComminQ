@@ -2,13 +2,12 @@
 
 ---
 
-I'm Fabien CAYRE. A backend developer, devops engineer, and student in a [French engineering school](https://upssitech.fr/). I'm interested in development (of course!), in games (like Minecraft ❤️) and in finance. I really like doing mini project just to explore some functionalities (Mainly re-inventing the wheel ⚙️).
+I'm Fabien CAYRE. A devops engineer for MULTI-IMPACT and backend developer in my freetime. I'm interested in development (of course!), in games (like Minecraft ❤️) and finance. I really like doing mini project just to explore some functionalities (Mainly re-inventing the wheel ⚙️).
 🏷️ [Minecraft Server Owner](https://otomny.fr/)
 
 ## Transversals skills
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,githubactions,linux,md)](https://skillicons.dev)
-
 
 ## Backend Skills
 
@@ -16,7 +15,7 @@ I'm Fabien CAYRE. A backend developer, devops engineer, and student in a [French
 
 ## Devops Engineering
 
-[![My Skills](https://skillicons.dev/icons?i=bash,py,powershell,docker,ansible)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kubernetes,helm,bash,py,powershell,docker,ansible)](https://skillicons.dev)
 
 ## Projects
 
