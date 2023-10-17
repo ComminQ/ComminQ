@@ -2,8 +2,7 @@
 
 ---
 
-I'm Fabien CAYRE. A devops engineer for MULTI-IMPACT and backend developer in my freetime. I'm interested in development (of course!), in games (like Minecraft ❤️) and finance. I really like doing mini project just to explore some functionalities (Mainly re-inventing the wheel ⚙️).
-🏷️ [Minecraft Server Owner](https://otomny.fr/)
+I'm Fabien CAYRE. A devops engineer for MULTI-IMPACT and backend developer in my freetime. I'm interested in development (of course!) and finance. I really like doing mini project just to explore some functionalities (Mainly re-inventing the wheel ⚙️).
 
 ## Transversals skills
 
